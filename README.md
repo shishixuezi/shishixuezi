@@ -1,7 +1,8 @@
-## Hi there 👋 I am [@Cai Mingfei](https://github.com/shishixuezi)
+## Hi there 👋 
 
+- 😄 I am [@Cai Mingfei](https://github.com/shishixuezi), a struggling Ph.D student in UTokyo.
 - 🔭 I’m currently working on data mining for human mobility.
-- 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/mingfeicai/)
+- 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/mingfeicai/)!
 
 <!--
 **shishixuezi/shishixuezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
