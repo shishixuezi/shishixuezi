@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-- 😄 I am [@Cai Mingfei](https://github.com/shishixuezi), a struggling Ph.D student in UTokyo.
+- 😄 I am [@Cai Mingfei](https://github.com/shishixuezi), a struggling Ph.D student at UTokyo.
 - 🔭 I’m currently working on data mining for human mobility.
 - 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/mingfeicai/)!
 
